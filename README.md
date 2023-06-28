@@ -2,7 +2,7 @@
 
 *A Machine Learning Engineer trying to make the world a better place, one ML model at a time.*
 
-### 🔭 I'm Currently Working On...
+### 🚧 I'm Currently Working On...
 
 **ChatGPT Development**
 
