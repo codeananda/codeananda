@@ -18,7 +18,7 @@ Reach out via my [Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd
 
 ### 🤔 Why `codeananda`?
 
-The suffix "-ananda" comes from Sanskrit and means "bliss" or "happiness." I'm a spiritual person who loves meditation and yoga and wants to bring joy into all I do. So, I remind myself daily that my work (`code`) can and should bring happiness (`-ananda`).
+The suffix "-ananda" comes from Sanskrit and means "bliss" or "happiness." I'm a spiritual person who loves meditation and yoga and wants to bring joy into all I do. So, I remind myself daily that I want my work (`code`) to bring happiness (`-ananda`).
 
 
 <!--
