@@ -1,8 +1,8 @@
 # Hi! I'm Adam 👋
 
-*A Machine Learning Engineer trying to make the world a better place, one ML model at a time.*
+*A Machine Learning Engineer trying to make the world a better place, one model at a time.*
 
-### 🚧 I'm Currently Working On...
+### 🏗️ Currently Working On...
 
 **ChatGPT Development**
 
@@ -10,7 +10,7 @@ I'm excited about the new wave of innovation occurring due to the release of Cha
 
 ### 💪 Other Skills
 
-I've spent a lot of time doing time series analysis and forecasting with libraries like Prophet, NeuralProphet, and TensorFlow. I know the Python Data Science stack inside out (Pandas, NumPy, Scikit-Learn, Weights & Biases, Matplotlib, Plotly, etc.). And I've written 40+ [technical articles](https://github.com/codeananda/technical_articles) teaching various ML concepts at different levels of difficulty.
+I've spent a lot of time doing time series analysis and forecasting with libraries like Prophet, NeuralProphet, and TensorFlow. I know the Python Data Science stack inside out (Pandas, NumPy, Scikit-Learn, Weights & Biases, Matplotlib, Plotly, etc.). And I've written 40+ [technical articles](https://github.com/codeananda/technical_articles) teaching various ML concepts at different levels of difficulty. I'm skilled in Docker and have used AWS (particularly AWS Lambda) for deployment and as my main cloud compute provider.
 
 ### 🤔 Why `codeananda`?
 
