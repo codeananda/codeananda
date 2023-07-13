@@ -10,7 +10,7 @@ I'm excited about the new wave of innovation occurring due to the release of Cha
 
 **Projects I've Worked On**
 
-* [🎓 Langy - The Interactive AI Language Tutor](https://github.com/codeananda/langy)
+* [🎓 Langy - The AI Language Tutor](https://github.com/codeananda/langy)
 
 ### 💪 Other Skills
 
