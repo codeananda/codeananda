@@ -11,6 +11,7 @@ I'm excited about the new wave of innovation occurring due to the release of Cha
 **Projects I've Worked On**
 
 * [🎓 Langy - The AI Language Tutor](https://github.com/codeananda/langy)
+* [🧇 Waffle Restaurant Order Bot PoC](https://github.com/codeananda/restaurant_order_bot/tree/main)
 
 ### 💪 Other Skills
 
