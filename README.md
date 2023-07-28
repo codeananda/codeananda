@@ -6,7 +6,7 @@
 
 **ChatGPT Development**
 
-I'm excited about the new wave of innovation occurring due to the release of ChatGPT and other LLMs. I want to use these technologies to create powerful models and transform our lives. 
+I'm excited about the new wave of innovation occurring due to the release of ChatGPT and other open source LLMs such as LLaMA2. I want to use these technologies to create powerful models that transform our lives. 
 
 **Projects I've Worked On**
 
