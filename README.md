@@ -8,10 +8,11 @@
 
 I'm excited about the new wave of innovation occurring due to the release of ChatGPT and other open source LLMs such as LLaMA2. I want to use these technologies to create powerful models that transform our lives. 
 
-**Projects I've Worked On**
+**Recent Projects**
 
 * [🎓 Langy - The AI Language Tutor](https://github.com/codeananda/langy)
 * [🧇 Waffle Restaurant Order Bot](https://github.com/codeananda/restaurant_order_bot/tree/main)
+* [📄 Document Embedding Analysis](https://github.com/codeananda/document_embedding_analysis)
 
 ### 💪 Other Skills
 
