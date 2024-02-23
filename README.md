@@ -1,4 +1,4 @@
-# 🤖 Adam Murphy | Machine Learning Engineer | ChatGPT Developer
+# 🤖 Adam Murphy | Machine Learning Engineer
 
 *A Machine Learning Engineer trying to make the world a better place, one model at a time.*
 
