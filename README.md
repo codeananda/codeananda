@@ -1,6 +1,6 @@
 # 🤖 Adam Murphy | Machine Learning Engineer
 
-*A Machine Learning Engineer trying to make the world a better place, one model at a time.*
+*Making the world a better place, one model at a time.*
 
 ### 🏗️ Currently Working On...
 
