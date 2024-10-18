@@ -10,8 +10,9 @@ I'm excited about the new wave of innovation occurring due to the rise of open- 
 
 **Recent Projects**
 
+* [🔍 Fakt.ai](https://github.com/codeananda/fakt_ai/) - 
+*Fully transparent, automated fact-checking powered by AI Agents*
 * [🎓 Langy - The AI Language Tutor](https://github.com/codeananda/langy)
-* [🧇 Waffle Restaurant Order Bot](https://github.com/codeananda/restaurant_order_bot/tree/main)
 * [📄 Document Embedding Analysis](https://github.com/codeananda/document_embedding_analysis)
 
 ### 💪 Other Skills
