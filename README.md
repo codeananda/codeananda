@@ -1,4 +1,4 @@
-# 🤖 Adam Murphy | Machine Learning Engineer
+# 🤖 Adam Murphy | LLM Engineer | Document Processing Specialist
 
 *Making the world a better place, one model at a time.*
 
