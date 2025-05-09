@@ -19,7 +19,7 @@ Most of my recent work lives in private repositories (NDAs, enterprise clients).
 - Models: OpenAI | Google Vertex AI | Anthropic Claude
 - Infrastructure:  AWS | Cloud Computing | S3 | EC2 | ECR | AWS Lambda | PostgreSQL | Docker | FastAPI
 - Monitoring: Custom observability pipeline |, LangSmith dashboards
-- ML:  Pandas | NumPy | Scikit-Learn | PyTorch
+- Machine Learning:  Pandas | NumPy | Scikit-Learn | PyTorch
 
 ## 🤝 Let's Build Something
 Need an LLM system that actually delivers ROI? [Check my Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e) for availability.
