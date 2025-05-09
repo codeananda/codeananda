@@ -19,9 +19,9 @@ Most of my recent work lives in private repositories (NDAs, enterprise clients).
 
 ## 🛠 Core Tech Stack
 - LLM Orchestration: LangChain | LangSmith | LangGraph | CrewAI
-- Models: OpenAI | Google Vertex AI | Anthropic Claude
-- Infrastructure:  AWS | Cloud Computing | S3 | EC2 | ECR | AWS Lambda | PostgreSQL | Docker | FastAPI
-- Monitoring: Custom observability pipeline |, LangSmith dashboards
+- Models: OpenAI | Google Gemini (Studio and Vertex) | Anthropic Claude | Groq
+- Infrastructure:  AWS | S3 | EC2 | ECR | AWS Lambda | AWS Fargate | PostgreSQL | Docker | FastAPI
+- Monitoring: Custom observability pipelines | LangSmith dashboards
 - Machine Learning:  Pandas | NumPy | Scikit-Learn | PyTorch
 
 ## 🤝 Let's Build Something
