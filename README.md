@@ -12,13 +12,14 @@ I transform complex document processing challenges into scalable AI solutions. M
 - View detailed case studies in pinned repositories
 
 ## 💡 Technical Philosophy
-Most of my recent work lives in private repositories (NDAs, enterprise clients). What you see here are carefully documented case studies and select open-source contributions that showcase my approach to building robust, scalable LLM systems.
+Most of my recent work lives in private repositories (NDAs, enterprise clients). What you see here are carefully documented case studies that showcase my approach to building robust, scalable LLM systems.
 
 ## 🛠 Core Tech Stack
-- LLM Orchestration: CrewAI, LangChain, LangSmith
-- Models: OpenAI, Google Vertex AI, Anthropic Claude
-- Infrastructure: Docker, Kubernetes, AWS
-- Monitoring: Custom observability pipelines, LangSmith dashboards
+- LLM Orchestration: LangChain | LangSmith | LangGraph | CrewAI
+- Models: OpenAI | Google Vertex AI | Anthropic Claude
+- Infrastructure:  AWS | Cloud Computing | S3 | EC2 | ECR | AWS Lambda | PostgreSQL | Docker | FastAPI
+- Monitoring: Custom observability pipeline |, LangSmith dashboards
+- ML:  Pandas | NumPy | Scikit-Learn | PyTorch
 
 ## 🤝 Let's Build Something
 Need an LLM system that actually delivers ROI? [Check my Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e) for availability.
