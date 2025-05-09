@@ -14,6 +14,9 @@ I transform complex document processing challenges into scalable AI solutions. M
 ## 💡 Technical Philosophy
 Most of my recent work lives in private repositories (NDAs, enterprise clients). What you see here are carefully documented case studies that showcase my approach to building robust, scalable LLM systems.
 
+## 🎯 Certifications & Expertise
+- **AWS Machine Learning Specialty**: Advanced certification in production ML systems and large-scale deployments (achieved December 2024)
+
 ## 🛠 Core Tech Stack
 - LLM Orchestration: LangChain | LangSmith | LangGraph | CrewAI
 - Models: OpenAI | Google Vertex AI | Anthropic Claude
