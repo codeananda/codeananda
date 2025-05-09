@@ -18,11 +18,11 @@ Most of my recent work lives in private repositories (NDAs, enterprise clients).
 - **AWS Machine Learning Specialty**: Advanced certification in production ML systems and large-scale deployments (achieved December 2024)
 
 ## 🛠 Core Tech Stack
-- LLM Orchestration: LangChain | LangSmith | LangGraph | CrewAI
-- Models: OpenAI | Google Gemini (Studio and Vertex) | Anthropic Claude | Groq
-- Infrastructure:  AWS | S3 | EC2 | ECR | AWS Lambda | AWS Fargate | PostgreSQL | Docker | FastAPI
-- Monitoring: Custom observability pipelines | LangSmith dashboards
-- Machine Learning:  Pandas | NumPy | Scikit-Learn | PyTorch
+- LLM Orchestration: LangChain, LangSmith, LangGraph, CrewAI
+- Models: OpenAI, Google Gemini (Studio and Vertex), Anthropic Claude, Groq
+- Infrastructure:  AWS, S3, EC2, ECR, AWS Lambda, AWS Fargate, PostgreSQL, Docker, FastAPI
+- Monitoring: Custom observability pipelines, LangSmith dashboards
+- Machine Learning:  Pandas, NumPy, Scikit-Learn, XGBoost, PyTorch
 
 ## 🤝 Let's Build Something
 Need an LLM system that actually delivers ROI? [Check my Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e) for availability.
