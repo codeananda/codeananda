@@ -1,4 +1,4 @@
-# 🤖 Adam Murphy | LLM Engineer | Document Processing Specialist
+# 🤖 Adam Murphy | LLM Engineer | LangChain, LangGraph
 
 I transform complex document processing challenges into scalable AI solutions. My systems have:
 - Processed 12M+ documents in 48 hours
