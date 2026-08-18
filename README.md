@@ -27,8 +27,18 @@ Further case studies (LLM security, testing non-deterministic systems, multi-car
 - **Infra:** AWS (Bedrock, Lambda, ECS, SQS, S3, RDS), Docker, Kubernetes, PostgreSQL + pgvector, FastAPI
 - **ML:** PyTorch, scikit-learn, pandas · AWS ML Specialty certified
 
+## ⭐ What clients say
+
+> "His Loom updates were the highlight of my week! He's great at communicating complex AI concepts to non-technical people and keeps you in the loop every step of the way." — **Chris Barnes**, Co-Founder, Gains App
+
+> "Adam is an absolute powerhouse of an LLM Engineer. He has first class communication skills which make working with him an absolute pleasure." — **Sammie Ellard-King**, Founder, Gains App
+
+> "A great balance of personality, professionalism and a deep knowledge of the AI space. He's a strategic thinker who considers the bigger picture." — **Tom Story**, PlannrAI
+
+Six years of reviews in full: [testimonials](https://github.com/codeananda/testimonials)
+
 ## 🤝 Work with me
 
 Most of my engagements run long-term: the first project automates one workflow; the ones after that tend to automate the rest.
 
-Expert-Vetted on Upwork (top 1%) · 100% Job Success · $400K+ earned · 70+ projects · [Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e)
+Expert-Vetted on Upwork (top 1%) · 100% Job Success · $400K+ earned · 75+ projects · [Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e)
