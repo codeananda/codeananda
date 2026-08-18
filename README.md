@@ -1,11 +1,11 @@
-# Adam Murphy | AI Engineer | LLM Systems for Regulated Industries
+# Adam Murphy | Senior AI Engineer | Production AI Agents, RAG & Workflow Automation
 
-I build production LLM systems for industries where wrong answers cost money — insurance, finance, law, property. Recent systems have:
+I build production AI systems that businesses run on every day: AI agents, RAG pipelines and LLM workflow automation for companies where a wrong answer costs real money. Recent systems have:
 
-- ⚡ Cut insurance underwriting review from **days to 3–5 minutes** at **99.55% precision**
-- 📄 Processed **12M+ documents in 48 hours** on Kubernetes spot instances
-- 📊 Screened private-equity deals end-to-end against the firm's own scorecard, **backtested against realised returns**
-- 🛡️ Built a consumer-fintech assistant designed to keep responses on the information side of the FCA advice boundary — **zero hallucinated financial figures by construction**
+- ⚡ Cut policy review on an AI underwriting platform used by 15+ US insurers from **days to 3–5 minutes** at **99.55% precision**
+- 🤖 Run a consumer money app's assistant live in front of real users: seven specialised agents, 43 deterministic tools, **zero hallucinated financial figures by construction**
+- 📄 Extracted, embedded and made 12M+ documents searchable **in under 48 hours**, at **65% below the GPT-4 baseline cost**
+- 📊 Screened private-equity deals end to end against the firm's own scorecard, **backtested against realised returns**
 
 ## 📁 Case studies
 
@@ -24,10 +24,13 @@ Further case studies (multi-carrier platform architecture, agentic engineering e
 
 ## 🎯 What I'm known for
 
-- **Accuracy you can audit** — golden-sample regression suites, LLM-as-judge testing, human-edit-count evaluation. 99% figures that are maintained properties, not launch statistics.
+- **Production, not prototypes** — every system ships with schema validation, evals and a regression suite, so it still works six months after launch and you can prove it.
+- **AI agents and workflow automation, end to end** — multi-agent systems in LangGraph and Claude with MCP that take a manual process end to end, observable at every step, with a human in the right place by design.
+- **Accuracy you can audit** — gold-standard eval sets built early, LLM-as-judge testing, regression-tested on every change. 99% figures that are maintained properties, not launch statistics.
+- **Integration with what you already have** — your CRM, your database, your APIs, your cloud. AWS certified (ML Specialty), equally at home on GCP.
+- **Cost and accuracy work on live LLM systems** — 65% cost reductions through model routing, context caching, batch APIs and self-hosted embeddings.
 - **LLM security that ships** — designed the five-layer prompt-injection defence a production platform adopted as its security spec, including a ~20-line pre-filter that closes a published 100% detection-evasion attack.
-- **Cost-conscious architecture** — 65–75% LLM cost reductions through model routing, context caching, batch APIs and self-hosted embeddings.
-- **Agentic engineering** — led team-wide AI-tooling adoption; a ten-gate pre-push pipeline runs five adversarial AI reviewers on every change for ~$25, so PRs arrive clean before a human looks.
+- **Claude Code and AI engineering enablement** — led team-wide AI-tooling adoption; a ten-gate pre-push pipeline runs five adversarial AI reviewers on every change for ~$25, so PRs arrive clean before a human looks.
 
 ## 🛠️ Tech
 
@@ -38,4 +41,6 @@ Further case studies (multi-carrier platform architecture, agentic engineering e
 
 ## 🤝 Work with me
 
-Expert-Vetted on Upwork (top 1%) · 100% Job Success · $400K+ earned · [Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e)
+Most of my engagements run long-term: the first project automates one workflow; the ones after that tend to automate the rest.
+
+Expert-Vetted on Upwork (top 1%) · 100% Job Success · $400K+ earned · 70+ projects · [Upwork profile](https://www.upwork.com/freelancers/~01153ca9fd0099730e)
