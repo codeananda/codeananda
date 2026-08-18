@@ -9,7 +9,7 @@ Client names are under NDA; the systems, numbers and engineering are real. Each 
 - ⚡ Cut policy review on an AI underwriting platform used by 15+ US insurers from **days to 3–5 minutes** at **99.55% precision** — [write-up](https://github.com/codeananda/ai_underwriting_platform)
 - 🤖 Built a consumer money app's assistant: seven specialised agents, 43 deterministic tools, live in front of real users, **zero hallucinated financial figures by construction** — [write-up](https://github.com/codeananda/fintech_ai_assistant)
 - 📄 Extracted, embedded and made **12M docs / 120M pages** searchable **in under 48 hours**, at **65% below the GPT-4 baseline cost** — [write-up](https://github.com/codeananda/planning_doc_text_extract_embed)
-- 📊 Halved mortgage-approval extraction errors with dual-LLM verification: **52% fewer errors, 80% less manual review** — [write-up](https://github.com/codeananda/enterprise_payslip_data_extractor)
+- 📊 Automated payslip review for mortgage approvals with dual-LLM verification: **52% fewer errors, 80% less manual review** — [write-up](https://github.com/codeananda/enterprise_payslip_data_extractor)
 
 Further case studies (LLM security, testing non-deterministic systems, multi-carrier platform architecture, agentic engineering enablement, PE deal screening) available on request.
 
