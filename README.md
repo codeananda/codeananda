@@ -1,20 +1,15 @@
 # Adam Murphy | Senior AI Engineer | Production AI Agents, RAG & Workflow Automation
 
-I build production AI systems that businesses run on every day: AI agents, RAG pipelines and LLM workflow automation for companies where a wrong answer costs real money. Recent systems have:
-
-- ⚡ Cut policy review on an AI underwriting platform used by 15+ US insurers from **days to 3–5 minutes** at **99.55% precision**
-- 🤖 Run a consumer money app's assistant live in front of real users: seven specialised agents, 43 deterministic tools, **zero hallucinated financial figures by construction**
-- 📄 Extracted, embedded and made 12M+ documents searchable **in under 48 hours**, at **65% below the GPT-4 baseline cost**
-- 📊 Screened private-equity deals end to end against the firm's own scorecard, **backtested against realised returns**
+I build production AI systems that businesses run on every day: AI agents, RAG pipelines and LLM workflow automation for companies where a wrong answer costs real money.
 
 ## 📁 Case studies
 
 Client names are under NDA; the systems, numbers and engineering are real. Each repo has the full designed write-up:
 
-- [AI underwriting platform](https://github.com/codeananda/ai_underwriting_platform) — the carrier's actual manual applied at 99.55% precision; review in minutes, not days
-- [A financial assistant that never makes up a number](https://github.com/codeananda/fintech_ai_assistant) — every figure computed by deterministic code; 43 tools, zero hallucinated numbers
-- [National-scale document pipeline](https://github.com/codeananda/planning_doc_text_extract_embed) — 12M docs / 120M pages embedded in 48 hours, zero-cost self-hosted embeddings
-- [Enterprise payslip data extraction](https://github.com/codeananda/enterprise_payslip_data_extractor) — dual-LLM verification for mortgage approvals: 52% fewer errors, 80% less manual review
+- ⚡ [AI underwriting platform](https://github.com/codeananda/ai_underwriting_platform) — used by 15+ US insurers; policy review cut from **days to 3–5 minutes** at **99.55% precision**
+- 🤖 [A financial assistant that never makes up a number](https://github.com/codeananda/fintech_ai_assistant) — seven specialised agents, 43 deterministic tools, live in front of real users; **zero hallucinated financial figures by construction**
+- 📄 [National-scale document pipeline](https://github.com/codeananda/planning_doc_text_extract_embed) — **12M docs / 120M pages** extracted, embedded and searchable **in under 48 hours**, at **65% below the GPT-4 baseline cost**
+- 📊 [Enterprise payslip data extraction](https://github.com/codeananda/enterprise_payslip_data_extractor) — dual-LLM verification for mortgage approvals: **52% fewer errors, 80% less manual review**
 
 Further case studies (LLM security, testing non-deterministic systems, multi-carrier platform architecture, agentic engineering enablement, PE deal screening) available on request.
 
