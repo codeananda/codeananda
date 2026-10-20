@@ -8,7 +8,7 @@ The clients are under NDA, so I've left their names out, but the systems and the
 
 - ⚡ On an AI underwriting platform used by 15+ US insurers, I took policy review from days down to **3 to 5 minutes**, at **99.55% precision** ([write-up](https://github.com/codeananda/ai_underwriting_platform))
 - 🤖 I built the assistant inside a consumer money app that's live in front of real users. It runs seven specialised agents and 43 deterministic tools, and every financial figure is worked out by code rather than the model, so it **can't make up a number** ([write-up](https://github.com/codeananda/fintech_ai_assistant))
-- 📄 I got **12 million documents (120 million pages)** extracted, embedded and searchable **in under 48 hours**, at **65% below the GPT-4 baseline cost** ([write-up](https://github.com/codeananda/planning_doc_text_extract_embed))
+- 📄 I got **12 million documents (120 million pages)** extracted, embedded and searchable **in under 48 hours**, on self-hosted embeddings with **$0 per-token cost** ([write-up](https://github.com/codeananda/planning_doc_text_extract_embed))
 - 📊 For mortgage approvals I automated payslip review with two models checking each other, and only the payslips they disagree on go to a person. That gave **52% fewer errors** and **80% less manual review** ([write-up](https://github.com/codeananda/enterprise_payslip_data_extractor))
 
 I've also written up LLM security, testing non-deterministic systems, multi-carrier platform architecture, agentic engineering enablement and PE deal screening, and I'm happy to send any of those over if you ask.
